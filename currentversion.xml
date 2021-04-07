@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.0.3</version>
-    <url>https://github.com/kunvn/BillInfo/releases/download/v2.0.0.3/BillInfo.zip</url>
+    <version>2.1.0.0</version>
+    <url>https://github.com/kunvn/BillInfo/releases/download/v2.1.0.0/BillInfo.zip</url>
     <changelog>https://github.com/kunvn/BillInfo/releases</changelog>
     <mandatory>false</mandatory>
 </item>
